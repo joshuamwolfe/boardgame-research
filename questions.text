@@ -28,12 +28,22 @@ c.Is there any sensitive information you need to secure?
 I’d like to have user’s log in so they can save searches and/or board games.
 
 d.What functionality will your app include?
-- The main idea is an easy to use research site for board games. To make things easier on the user, i’d like to have preset search buttons for the user to click. I’d like to have a simple low clutter look so it’s obvious for what the user needs to do. 
+- i'd like users to have own and wanted lists. 
+    - with in the owned list, id like their to be a collection tracker. So the user know's what games they need to get all games by x publisher or all games in x series.
+- i think it'd be fun to have achivments: examples below. 
+    - first search
+    - first comment
+    - first bump
+    - first game add
+    - fith game add
+    - owns all games by published by a publicher
+    - owns more then 50 games
+- i'd like their to be a way comment and discuss individual games or talk in general. 
 
 e.What will the user flow look like?
-- I haven't thought about that really. 
-f.What features make your site more than CRUD? 
-- Im not sure, i’ll ask my mentor.
+- I was envisioning a simple interface with a expandable sandwich for mobile, a centered nav bar at the top that drops / opens upon hover. 
 
 g.Do you have any stretchgoals.
 - Im hoping to find a “community rated” best number of players. So players will know, it says 2-4. But it’s most enjoyable with “x players”. Im not sure if that exists. I feel like it needs more than search. But I dont want it to be to cluttered. A forum maybe? Un decided. Feature request section maybe. Road map page for future updates maybe?
+- another idea is to have a board game selection tool, a simplified version of an advanced search. It tells you based off of preselect values the best board games that fit your search
+- i'd like to add a chat room. 
