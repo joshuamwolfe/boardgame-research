@@ -1,3 +1,5 @@
+(TODO: grammer, spelling, refactor)
+
 1.What goal will your website be designed to achieve?
 - A mobile first, responsive, fast website, to perform research about board games.
 
@@ -20,6 +22,30 @@ Where to buy
 
 a.What does your database schema look like?
 - Probably one to many relationship. Because I’d like to sort game’s by publisher as well. As far as I know A game can only have one publisher. If it has more than one. Probably a many to many relationship.
+- Examples of Tables I'd Have, ill update/change 20-30% probably. But this should be mostly complete.
+- just imagine all these have the word "table tacked on the end"
+- user info table
+- owned board games
+- wanted board games
+- users friended 
+    - Additional thoughts: possible activity feed?
+- board game plays 
+    - Additional thoughts: a tracker to track how many times they've played x board games and spent x total time playing said board game.
+- board game
+    - number of players column
+    - play time column
+    - game mechanic column
+    - publisher column
+    - id column
+    - foreign key
+    - several relationships
+        - Additional thoughts: because they'll need to identify who own/want/played/has in achievments
+    - Additional thoughts: this'll have a TON of data columns to encompass all board properties. Most of these will probably be copied from the API
+- achievments name table
+    - to split up the achievments data, make more manegable.
+- achievments users
+    - just the id of the achievment achieved and the id of the user that aquired it
+
 
 b.What kinds of issues might you run into with your API?
 - The data. There arnt many board game API’s out there. Im not sure if I can do everything i’d like to. 
@@ -42,6 +68,17 @@ d.What functionality will your app include?
 
 e.What will the user flow look like?
 - I was envisioning a simple interface with a expandable sandwich for mobile, a centered nav bar at the top that drops / opens upon hover. 
+- I'd want it a tradtional site navbar at the top centered
+- mobile and tablet sites i'll want to have an expandable sandwich on the top right hand corner
+- drop menu's for lists
+- drop menu's for notifications
+- drop menu's for friends
+- drop menu's for searching
+    - advanced search feature
+- colors will be gentle colors liked by most working age adults. (TODO: Research colors)
+- profile in top right
+- profile circle in top right
+- 
 
 g.Do you have any stretchgoals.
 - Im hoping to find a “community rated” best number of players. So players will know, it says 2-4. But it’s most enjoyable with “x players”. Im not sure if that exists. I feel like it needs more than search. But I dont want it to be to cluttered. A forum maybe? Un decided. Feature request section maybe. Road map page for future updates maybe?
