@@ -73,7 +73,7 @@
 
 ### 4d. What functionality will your app include?
 
--   i'd like users to have own and wanted lists.
+-   User's to have own and wanted lists.
     -   with in the owned list, id like their to be a collection tracker. So the user knows what games they need to get all games by x publisher or all games in x series.
 -   I think it'd be fun to have achievements: examples below.
     -   first search
